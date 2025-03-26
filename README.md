@@ -2,7 +2,7 @@
 
 Datos estructurados, no estructurados, manejo de Datasets
 
-Aquí se adjuntaran 3 archivos: 
+Se ha creado el directorio Analisis-del-Dataset en el cual se adjuntaran 3 archivos: 
 
 *Archivo .ipynb realizado en Kaggle con la ejecución de la práctica
 
