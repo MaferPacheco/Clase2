@@ -1,7 +1,0 @@
-Se ha seleccionado en KAGGLE: CYBERSECURITY INCIDENTS DATASET
-
-Se adjunta en esta carpeta:
-
-*Archivo .ipynb
-*Archivo excel
-*Archivo pdf
